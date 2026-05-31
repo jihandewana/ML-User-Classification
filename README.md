@@ -1,6 +1,8 @@
 # ML-User-Classification
 Python - User Classification Project by 365 DataScience
 
+**🔗 Click [here](https://colab.research.google.com/drive/15IjL978bvJhybQ3kHQW8Ah6QDgve39EG?usp=sharing) to view the full interactive notebook on Google Colab**
+
 # Inspired Source
 Detail Case Study 👉 [Machine Learning for User Classification Project](https://learn.365datascience.com/projects/preview/machine-learning-for-user-classification/)
 
